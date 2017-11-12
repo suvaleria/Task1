@@ -187,6 +187,8 @@ Windows 7
 ----------------------
 Python 3.6
 
+Anaconda3
+
 Jupyter 
 
 Notebook
